@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Simanchal Muni-Yellow)](https://www.youtube.com/channel/UCGFESjIkmKljK6B1ImWoVHA/about)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Simanchal Muni-yellow)](https://www.youtube.com/channel/UCGFESjIkmKljK6B1ImWoVHA/about)
 [![Linkedin Badge](https://img.shields.io/badge/-Simanchal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Simanchal--01629954/)](https://www.linkedin.com/in/simanchal-muni-b69135a8)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
