@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/https://www.youtube.com/channel/UCGFESjIkmKljK6B1ImWoVHA-red)]
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simanchal-muni-b69135a8]
+[![YouTube Badge](https://img.shields.io/badge/https://www.youtube.com/channel/UCGFESjIkmKljK6B1ImWoVHA]
+[![Linkedin Badge](https://img.shields.io/badge/-Simanchal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simanchal-muni-b69135a8]
 
 
 I'm
